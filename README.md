@@ -9,19 +9,3 @@
 ░░█▀█░█▀▀░█▀█░█░█░█▄▄░█░░░█░█▀▀░░░█▀▀░█▀█░█▄█░█▀█░▀█▀░█▀█░░  
 ░░█▀▄░██▄░█▀▀░█▄█░█▄█░█▄▄░█░█▄▄░░░█▄▄░█▀▄░░█░░█▀▀░░█░░█▄█░░  
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
-
-https://republiccrypto.com/  
-
-**`.socials`**
-
-- github   - [ `FawbyRepublic` ]( https://github.com/FawbyRepublic )
-- discord  - `fawby_republic`
-- twitter  - [ `fawby_republic` ]( https://twitter.com/fawby_republic )
-- telegram - [ `fawby_republic` ]( https://t.me/fawby_republic )
-
-**`.about`**
-
-- `spaces` > `tabs`
-- never nest
-- self documenting code isnt
-- oxidize everything!
