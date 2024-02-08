@@ -10,19 +10,21 @@
 ░░█▀▄░██▄░█▀▀░█▄█░█▄█░█▄▄░█░█▄▄░░░█▄▄░█▀▄░░█░░█▀▀░░█░░█▄█░░  
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 
-- `spaces > tabs`
-- `never nester`
-- `self documenting code isnt`
-- `oxidize everything!`
-
-## Check Out Republic Crypto
-
 https://republiccrypto.com/  
 https://republiccrypto.com/services/infrastructure
 
-## Socials
+## `./me`
+
+### `./socials`
 
 - `gihub`    - `FawbyRepublic` 
 - `discord`  - `fawby_republic`
 - `twitter`  - [ `fawby_republic` ]( https://twitter.com/fawby_republic )
 - `telegram` - [ `fawby_republic` ]( https://t.me/fawby_republic )
+
+### `./opinions`
+
+- `spaces > tabs`
+- `never nester`
+- `self documenting code isnt`
+- `oxidize everything!`
