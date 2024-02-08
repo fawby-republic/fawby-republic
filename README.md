@@ -11,7 +11,6 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 
 https://republiccrypto.com/  
-https://republiccrypto.com/services/infrastructure
 
 **`.socials`**
 
