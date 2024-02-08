@@ -22,7 +22,7 @@ https://republiccrypto.com/services/infrastructure
 
 ## `.about`
 
-- `spaces > tabs`
-- `never nest`
-- `self documenting code isnt`
-- `oxidize everything!`
+- `spaces` > `tabs`
+- never nest
+- self documenting code isnt
+- oxidize everything!
