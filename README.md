@@ -13,18 +13,18 @@
 https://republiccrypto.com/  
 https://republiccrypto.com/services/infrastructure
 
-## `./me`
+## `.me`
 
-### `./socials`
+### `.socials`
 
-- `gihub`    - `FawbyRepublic` 
+- `github`   - [ `FawbyRepublic` ]( https://github.com/FawbyRepublic )
 - `discord`  - `fawby_republic`
 - `twitter`  - [ `fawby_republic` ]( https://twitter.com/fawby_republic )
 - `telegram` - [ `fawby_republic` ]( https://t.me/fawby_republic )
 
-### `./opinions`
+### `.opinions`
 
 - `spaces > tabs`
-- `never nester`
+- `never nest`
 - `self documenting code isnt`
 - `oxidize everything!`
