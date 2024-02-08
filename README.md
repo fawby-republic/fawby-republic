@@ -15,10 +15,10 @@ https://republiccrypto.com/services/infrastructure
 
 ## `.socials`
 
-- `github`   - [ `FawbyRepublic` ]( https://github.com/FawbyRepublic )
-- `discord`  - `fawby_republic`
-- `twitter`  - [ `fawby_republic` ]( https://twitter.com/fawby_republic )
-- `telegram` - [ `fawby_republic` ]( https://t.me/fawby_republic )
+- `github`   - [ FawbyRepublic ]( https://github.com/FawbyRepublic )
+- `discord`  - fawby_republic
+- `twitter`  - [ fawby_republic ]( https://twitter.com/fawby_republic )
+- `telegram` - [ fawby_republic ]( https://t.me/fawby_republic )
 
 ## `.about`
 
